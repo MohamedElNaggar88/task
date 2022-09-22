@@ -1,6 +1,8 @@
 # Steps :
 
 
+
+
 1- Install any local server like Xampp.
 
 2- Open cmd and run : git clone https://github.com/MohamedElNaggar88/task.git
