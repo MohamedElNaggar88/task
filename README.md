@@ -1,6 +1,5 @@
-# task
+# Steps :
 
-Steps : 
 
 1- Install any local server like Xampp.
 
